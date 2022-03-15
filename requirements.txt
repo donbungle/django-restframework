@@ -4,6 +4,12 @@ Markdown==3.3.6
 django-filter==21.1
 psycopg2==2.9.3
 flake8>=3.9.0,<4.0.0
+
+django-cors-headers==3.11.0
+
+#Para pruebas - borrar en produccion
+Pygments
+
 #Django>=2.1.3,<2.2.0
 #djangorestframework>=3.9.0,<3.10.0
 #psycopg2>=2.7.5,<2.8.0
