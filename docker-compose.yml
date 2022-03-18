@@ -50,7 +50,7 @@ services:
 
   pgadmin:
     container_name: base_db_admin
-    image: dpage/pgadmin4:6.6
+    image: dpage/pgadmin4:6.7
     environment:
       PGADMIN_DEFAULT_EMAIL: 'victor.catalan@device.cl'
       PGADMIN_DEFAULT_PASSWORD: '123456'
